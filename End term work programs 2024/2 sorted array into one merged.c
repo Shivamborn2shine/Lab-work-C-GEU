@@ -55,7 +55,7 @@ int main(){
   sort_list(N,a);
   
   
-  printf("2nd list\n");
+  printf("2nd list--->");
   get_list(N,b);
   printf("Sorted list 2\n");
   sort_list(N,b);
